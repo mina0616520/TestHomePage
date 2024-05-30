@@ -1,3 +1,3 @@
 # リンク集
 
-https://www.seventeen-17.jp/
+(seventeen)[https://www.seventeen-17.jp/]
